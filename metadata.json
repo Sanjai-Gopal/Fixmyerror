@@ -1,0 +1,6 @@
+{
+  "name": "FixMyError",
+  "description": "Understand web development errors in JavaScript, React, and CSS, and fix them with confidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
